@@ -1,4 +1,4 @@
-tasks: [
+"task": [
   {
     "name": "Finalize Sales Report",
     "days_left": 3,
