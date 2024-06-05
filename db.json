@@ -1,4 +1,62 @@
 {
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Finalize Sales Report",
+      "days_left": 3,
+      "deadline": "2024-06-07",
+      "description": "Compile and finalize the sales report for Q2. This includes incorporating any feedback received from colleagues, ensuring all data is accurate and up-to-date, and formatting the report for professional presentation.",
+      "completed": true  
+    },
+    {
+      "id": 2,
+      "name": "Replenish Weekly Groceries",
+      "days_left": 1,
+      "deadline": "2024-06-05",
+      "description": "Make a grocery list for the upcoming week, considering upcoming meals and dietary needs. Head to the store and purchase essential items like milk, bread, vegetables, fruits, and any protein sources needed for planned meals.",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "Bi-Annual Dental Check-Up",
+      "days_left": 10,
+      "deadline": "2024-06-14",
+      "description": "Schedule and attend a bi-annual dental check-up and cleaning. This appointment will involve a thorough examination of your teeth and gums, potential X-rays if necessary, and a professional cleaning to remove plaque and tartar buildup. Remember to brush and floss beforehand to ensure optimal oral hygiene.",
+      "completed": false  
+    },
+    {
+      "id": 4,
+      "name": "Research and Book Summer Vacation Flight",
+      "days_left": 15,
+      "deadline": "2024-06-19",
+      "description": "Research and compare flight options for your upcoming summer vacation. Consider factors like travel dates, preferred airlines, desired layovers or direct flights, and budget constraints. Once you've identified the best option, proceed with booking the flight to secure your desired travel dates and potentially take advantage of early booking discounts.",
+      "completed": false  
+    },
+    {
+      "id": 5,
+      "name": "Strengthen Python Programming Skills",
+      "days_left": 30,
+      "deadline": "2024-07-04",
+      "description": "Dedicate at least 30 minutes daily to practicing and strengthening your Python programming skills. This can involve working through coding exercises from online platforms, following tutorials on specific topics like data structures or algorithms, or even working on personal projects to apply your acquired knowledge in a practical setting.",
+      "completed": true 
+    },
+    {
+      "id": 6,
+      "name": "Prepare Presentation for Annual Conference",
+      "days_left": 5,
+      "deadline": "2024-06-09",
+      "description": "",
+      "completed": false  
+    },
+    {
+      "id": 7,
+      "name": "Organize Garage Sale",
+      "days_left": 20,
+      "deadline": "2024-06-24",
+      "description": "Sort through household items to identify what can be sold at the garage sale. Advertise the sale through local community boards and social media. Set up the items in an organized manner on the day of the sale and handle transactions.",
+      "completed": false  
+    }
+  ],
   "chatList": [
     {
       "chatRoomId": "room1",
