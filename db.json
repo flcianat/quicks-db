@@ -63,7 +63,7 @@
       "name": "109220 - Naturalization",
       "type": "group",
       "lastMessage": "Please check this out!",
-      "lastMessageTime": "2024-06-05T12:49:57+00:00Z",
+      "lastMessageTime": "2024-06-05 12:49",
       "lastMessagePreview": "Please check this out!"
     },
     {
@@ -71,7 +71,7 @@
       "name": "FastVisa Support",
       "type": "single",
       "lastMessage": "Hey there! Welcome to your inbox.",
-      "lastMessageTime": "2024-06-05T13:58:16+00:00Z",
+      "lastMessageTime": "2024-06-05 13:58",
       "lastMessagePreview": "Hey there! Welcome to your inbox."
     }
   ],
@@ -97,37 +97,37 @@
           "messageId": "1",
           "senderId": "user1",
           "message": "Just fill me in for his updates yea?",
-          "timestamp": "2024-06-05T12:05:18+00:00Z"
+          "timestamp": "2024-06-05 12:05"
         },
         {
           "messageId": "2",
           "senderId": "user3",
           "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
-          "timestamp": "2024-06-05T12:11:54+00:00Z"
+          "timestamp": "2024-06-05 12:11"
         },
         {
           "messageId": "3",
           "senderId": "user1",
           "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
-          "timestamp": "2024-06-05T12:49:57+00:00Z"
+          "timestamp": "2024-06-05 12:49"
         },
         {
           "messageId": "4",
           "senderId": "user3",
           "message": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
-          "timestamp": "2024-06-05T12:55:14+00:00Z"
+          "timestamp": "2024-06-05 12:55"
         },
         {
           "messageId": "5",
           "senderId": "user1",
           "message": "Sure thing, Claren.",
-          "timestamp": "2024-06-05T12:57:44+00:00Z"
+          "timestamp": "2024-06-05 12:57"
         },
         {
           "messageId": "6",
           "senderId": "user2",
           "message": "Morning. I’ll try to do them. Thanks",
-          "timestamp": "2024-06-05T13:05:14+00:00Z"
+          "timestamp": "2024-06-05 13:05"
         }
       ]
     },
@@ -148,13 +148,13 @@
           "messageId": "1",
           "senderId": "user1",
           "message": "Hey there! Welcome to your inbox.",
-          "timestamp": "2024-06-05T13:04:43+00:00Z"
+          "timestamp": "2024-06-05 13:04"
         },
         {
           "messageId": "2",
           "senderId": "user3",
           "message": "Hi, I need help with something can you help me?",
-          "timestamp": "2024-06-05T13:58:16+00:00Z"
+          "timestamp": "2024-06-05 13:58"
         }
       ]
     }
